@@ -13,5 +13,3 @@ java boxes
 There are two examples and then a time experiment which runs in a few seconds.  The main method at the beginning (line 7) can be edited to run additional examples or set different values for n in the run experiment.
 
 
-
-box stacking.R is another implementation that runs in R
