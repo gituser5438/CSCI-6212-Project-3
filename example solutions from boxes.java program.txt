@@ -1,6 +1,4 @@
 
-  /drives/c/Users/vbhan/Documents/CSCI 6212/Project 3 
-  20/11/2025   22:11.48  java boxes.java
 Original Boxes
 [15, 992, 33]
 [21, 62, 3]
