@@ -52,17 +52,10 @@ findMaxHeight = function(boxes, rotate=T) {
 
 #Examples
 boxes=rbind(c(3,3,2), c(4,2,2), c(2,4,4))
-x=rotateBoxes(boxes)
-x
-
-
-findMaxHeight(boxes, rotate=F)
 findMaxHeight(boxes, rotate=T)
 
 
 boxes=rbind(c(3,5,4),c(2,3,2),c(2,6,3),c(4,5,1),c(1,4,2),c(2,2,1))
-findMaxHeight(boxes, rotate=F)
-
 findMaxHeight(boxes, rotate=T)
 
 
